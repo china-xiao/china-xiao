@@ -323,17 +323,5 @@ web系列博文列表，主要介绍web应用搭建的基本知识点，包括�
 
 尽信书则不如，已上内容，一家之言，因个人能力有限，难免有疏漏和错误之处，如发现bug或者有更好的建议，欢迎批评指正，不吝感激
 
-- 微博地址: 小灰灰Blog
-- QQ： 一灰灰/3302797840
-- WeChat: 一灰/liuyueyi25
-
-### 扫描关注
-
-公众号&博客
-
-![QrCode](https://gitee.com/liuyueyi/Source/raw/master/img/info/blogInfoV2.png)
 
 
-打赏码
-
-![pay](https://gitee.com/liuyueyi/Source/raw/master/img/pay/pay.png)
